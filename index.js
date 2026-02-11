@@ -8,6 +8,6 @@ app.get('/', (req, res) => {
 })
 
 app.listen(PORT, () => {
-    console.log(`Server is up and running mannsndon PORT ${PORT}`)
+    console.log(`Server is up and runnincccg mannsndon PORT ${PORT}`)
 })
 console.log(`Hello Node.js v${process.versions.node}!`);
